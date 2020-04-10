@@ -1,0 +1,16 @@
+an lmomkoatomic  ideal  gas,intially  at  a  temperature  endclosed  in a  cylinderical  filter  witha  frictsionless  piston   the gas  is  allowed  automaticalluy  to  a temperature  
+by  releasing  the  piston  suddenly  if and  length  of  a  gas  colroumn  before  and  after expansion  respectively  than  is  given  by 
+three  samples  of same  gas  x,y,z,  for  which  the  ratio  of specific  gas   havae intially  the same volume the  volumes of  each  sample  is  doubled  by  adiabatic  process  in  th e 
+case and  by  isothermal  process in the  case of  y and z  aif  the  intial  process of  the  x,y,z  are  in  the  ratio  than the  ratio  of  final  pressure  
+a   moles  of an  ideal  gas process im  which the  temperature  changes  with  a  volume as  the  work  done by  the  gas  as  the  temperature  from
+cal  of  heat is  requried to rise  the  temperature of  an  ideal  gas  at  constant  temperature  and  pressure  what  is the  amount  of  heat  requried  to  raise  
+t he  temperature  of  same  gas  through  thr  same range at  constant  volume 
+the  relation  between  intetnal  energy  pressure  and  volume of  a gas  in  an  adiabatic  process  is where a  and  b  are  constants what  is the  value  of  ratio  specific  heats
+two  carnot  engine  a and  b  are  operated  in  sucession.  the  first one a receives  heat from  a  source  at  and  rejects  to  a  sink  at  . The  second  engine B recives  to  a
+sink  at  .if  the  effidciendcy  of  two  engine  are  equal  than  the  value  of is 
+a given  mass of  a  gas  expands  from  the  state  a  to  state b  by  the  three  parts.respectively  by  the  work  done by  the  gas  along  the  three parts  than 
+a closed  vessel contains some  gas  at a given  temperature  and  pressure .if  the  vessel is given  a very   high velocity  ,than  the  tempera ture  of a gas
+
+one mole  of diatomic gas  undergoes a  cyclic  process  as  shown  in the  figure . the process  is  adiabatic  .
+a  diatomic  ideal  gas is used  ina car  engine  as  the  working  subustances  . volume of gas  increases fresom  during  the  adiabatic   expansion  part of  cycle  
+the  efficiency  of   the  engine  is.;;;
